@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_nearby"
+        icon="@drawable/ic_perm_identity"
+        barColorWhenSelected="@color/colorPrimary"
+        title="Drivers" />
+
+    <tab
+        id="@+id/tab_favorites"
+        icon="@drawable/ic_room"
+        barColorWhenSelected="#E64A19"
+        title="ETA" />
+
+    <tab
+        id="@+id/tab_ride"
+        icon="@drawable/ic_explore"
+        barColorWhenSelected="#5D4037"
+        title="Ride" />
+    <tab
+        id="@+id/tab_cost"
+        icon="@drawable/ic_description"
+        barColorWhenSelected="#8BC34A"
+        title="Cost" />
+    <tab
+        id="@+id/tab_rating"
+        icon="@drawable/ic_grade"
+        barColorWhenSelected="#9C27B0"
+        title="Rating" />
+</tabs>
