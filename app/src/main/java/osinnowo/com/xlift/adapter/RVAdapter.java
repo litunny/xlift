@@ -44,8 +44,8 @@ public class RVAdapter extends RecyclerView.Adapter<RVAdapter.MyViewHolder>{
 
     @Override
     public void onBindViewHolder(MyViewHolder holder, int position) {
-        holder.personName.setText(mList.get(position).getDisplayName());
-        holder.personAge.setText(Integer.toString(mList.get(position).getEtaSeconds()) + " secs");
+        holder.displayName.setText(mList.get(position).getDisplayName());
+        holder.etaSeconds.setText(Integer.toString(mList.get(position).getEtaSeconds()) + " secs");
         //holder.personPhoto.setImageResource();
     }
 
@@ -57,9 +57,9 @@ public class RVAdapter extends RecyclerView.Adapter<RVAdapter.MyViewHolder>{
     public static class MyViewHolder extends RecyclerView.ViewHolder  {
 
         @BindView(R.id.cv) CardView cv;
-        @BindView(R.id.person_name) TextView personName;
-        @BindView(R.id.person_age) TextView personAge;
-        @BindView(R.id.person_photo) ImageView personPhoto;
+        @BindView(R.id.displayName) TextView displayName;
+        @BindView(R.id.etaSeconds) TextView etaSeconds;
+        @BindView(R.id.person_photo) ImageView imageView;
         public MyViewHolder(View itemView) {
             super(itemView);
             ButterKnife.bind(this,itemView);
