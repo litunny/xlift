@@ -1,5 +1,5 @@
 #Xlift
-## Libraries used:
+## Libraries / Tools used:
   * Retrofit 2.x
    * Type-safe HTTP client for Android and Java by Square, Inc. For more information please see [Retrofit](http://square.github.io/retrofit/)
 
@@ -10,7 +10,7 @@
    * This CircularProgressView is a (surprisingly) circular progress bar Android View that is designed to imitate the Material versions of ProgressBar
   * Fancy Buttons
    * Icons, Borders, Radius ... for Android buttons. Visit [Fancy Buttons](https://github.com/medyo/Fancybuttons)
-
+  * Material Pallete
 ## Design Concept:
   * [Material Design](https://material.io/guidelines/)
 
