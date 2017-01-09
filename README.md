@@ -12,6 +12,6 @@
    * Icons, Borders, Radius ... for Android buttons. Visit [Fancy Buttons](https://github.com/medyo/Fancybuttons)
 
 ## Design Concept:
-    [Material Design](https://material.io/guidelines/)
+  * [Material Design](https://material.io/guidelines/)
 
 ##
