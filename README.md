@@ -16,4 +16,5 @@
 ## Design Concept:
   * [Material Design](https://material.io/guidelines/)
 
-##
+# Code Implementation:
+## OAuth 2.0 Authentication:
