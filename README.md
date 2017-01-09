@@ -9,3 +9,4 @@
   * Circular Progress View
    * This CircularProgressView is a (surprisingly) circular progress bar Android View that is designed to imitate the Material versions of ProgressBar
   * Fancy Buttons
+   * Icons, Borders, Radius ... for Android buttons. Visit [Fancy Buttons](https://github.com/medyo/Fancybuttons)
