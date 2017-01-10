@@ -17,6 +17,6 @@
   * [Material Design](https://material.io/guidelines/)
 
 # Code Implementation:
-## OAuth 2.0 Authentication:
-  * OAuth authentication which is also known as the basic authentication mechanism
+  * OAuth 2.0 Authentication:
+   * OAuth authentication which is also known as the basic authentication mechanism
 
