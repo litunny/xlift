@@ -18,3 +18,5 @@
 
 # Code Implementation:
 ## OAuth 2.0 Authentication:
+  * OAuth authentication which is also known as the basic authentication mechanism
+
