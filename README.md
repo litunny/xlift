@@ -19,5 +19,5 @@
 # Code Implementation:
   * OAuth 2.0 Authentication:
    * OAuth authentication which is also known as the basic authentication mechanism
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+    > Blockquotes are very handy in email to emulate reply text.
+    > This line is part of the same quote.
