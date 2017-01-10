@@ -15,11 +15,10 @@
   * Recycler View
   * Card View
 
-
-## Design Concept:
-  * [Material Design](https://material.io/guidelines/)
-
 # Code Implementation:
    * OAuth authentication for basic authentication mechanism
    * GPSTracker, to get the current lat and lng
    * Android SharedPreference implementation to storing InApp data locally
+
+## Design Concept:
+  * [Material Design](https://material.io/guidelines/)
