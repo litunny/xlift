@@ -21,4 +21,7 @@
 
 # Code Implementation:
   * OAuth 2.0 Authentication:
-   * OAuth authentication which is also known as the basic authentication mechanism
+   * OAuth authentication for basic authentication mechanism
+   * GPSTracker, to get the current lat and lng
+   * Android SharedPreference implementation to storing InApp data locally
+   *
