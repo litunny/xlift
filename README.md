@@ -12,6 +12,9 @@
    * Icons, Borders, Radius ... for Android buttons. Visit [Fancy Buttons](https://github.com/medyo/Fancybuttons)
   * Material Pallete
   * Google MAP API
+  * Recycler View
+  * Card View
+
 
 ## Design Concept:
   * [Material Design](https://material.io/guidelines/)
@@ -19,5 +22,3 @@
 # Code Implementation:
   * OAuth 2.0 Authentication:
    * OAuth authentication which is also known as the basic authentication mechanism
-    > Blockquotes are very handy in email to emulate reply text.
-    > This line is part of the same quote.
